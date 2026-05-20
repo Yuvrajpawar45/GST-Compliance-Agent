@@ -1,0 +1,33 @@
+{
+  "supplier": "Your Company Name",
+  "invoice_no": "INV/2024-25/001",
+  "date": "12 Oct 2024",
+  "gstin_supplier": "24AABCM1234P1Z5",
+  "gstin_recipient": "27XYZPQ5678R1Z2",
+  "pos": "Maharashtra (27)",
+  "supply_type": "B2B — Inter-state",
+  "lines": [
+    {
+      "desc": "Cotton Fabric (HSN 5208)",
+      "qty": 200,
+      "rate": 450,
+      "taxable": 90000,
+      "gst_rate": 5,
+      "cgst": 0,
+      "sgst": 0,
+      "igst": 4500,
+      "error": null
+    },
+    {
+      "desc": "Synthetic Yarn (HSN 5402)",
+      "qty": 50,
+      "rate": 800,
+      "taxable": 40000,
+      "gst_rate": 5,
+      "cgst": 0,
+      "sgst": 0,
+      "igst": 2000,
+      "error": null
+    }
+  ]
+}
